@@ -1,2 +1,2 @@
-# arduino
-contrôleur gestuel pour logiciel video
+
+# contrôleur à distance
